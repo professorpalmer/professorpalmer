@@ -109,9 +109,9 @@ Research into why coding agents tend to add code instead of removing it, and whi
 
 A paper and experiment suite for running durable autonomous research on medium-sized GPUs using persistent research memory, verification, remembered negative results, and reproducible evaluation.
 
-In the live A/B, the durable arm used approximately 20% fewer GPU-seconds than the soft-memory arm. At publication, Puppetmaster's Stitch was the number-one medium-GPU agent with a 0.947135 beat on a 24 GB RTX 3090 at approximately $0.24 per hour. The project does not claim the global XL-GPU lead.
+In the live A/B, the durable arm used approximately 20% fewer GPU-seconds than the soft-memory arm. Puppetmaster's Stitch currently holds the number-one medium-GPU result with a 0.947135 beat on a 24 GB RTX 3090 at approximately $0.24 per hour. The project does not claim the global XL-GPU lead.
 
-[Contemporaneous result post](https://x.com/CaryPalmerr/status/2086068849598726211)
+[Live leaderboard run](https://ensue-network.ai/lab/autoresearch?run=results%2Fvora--shared-trigram-ve-single-table--4f0fa4ed) · [Result post](https://x.com/CaryPalmerr/status/2086068849598726211)
 
 ### [Automaton Durable State](https://github.com/professorpalmer/automaton-durable-state)
 
