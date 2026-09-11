@@ -1,7 +1,9 @@
 # Cary Palmer
 
 https://puppetmaster.gg
+
 https://portablellm.wiki
+
 https://dugoutfantasy.com
 
 Sr MLE @ Pacers Sports | OSS Creator @ Puppetmaster · Marionette · Automaton · PortableLLM Wiki · StrongOrc & More
