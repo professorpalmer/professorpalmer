@@ -127,4 +127,4 @@ My benchmark for evaluating models both as durable orchestrators and as workers 
 
 ## Other work
 
-My earlier and parallel work includes computer-vision systems, pitch-level baseball ML, fantasy sports tooling, and long-running FFXI open-source projects. Selected work is collected in my [portfolio](https://dugoutfantasy.com/portfolio).
+My earlier and parallel work includes computer-vision systems, pitch-level baseball ML, fantasy sports tooling, and long-running FFXI open-source projects. Selected work is collected in my [portfolio](https://puppetmaster.gg).
